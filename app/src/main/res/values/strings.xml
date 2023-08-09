@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NambaOne</string>
+    <string name="rick_and_morty">Rick and Morty</string>
+    <string name="error_messsage">Упс!!! Что-то пошло не так!</string>
 </resources>
